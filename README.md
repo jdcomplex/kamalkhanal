@@ -1,3 +1,9 @@
+# Kamal Khanal — Portfolio ⚡️
+> Personal portfolio of Kamal Khanal, Senior SQL Server DBA. Single self-contained `index.html`, hosted on GitHub Pages.
+
+---
+_Original template credit below._
+
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
